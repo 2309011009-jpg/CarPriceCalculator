@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Machine Learning for Appropriate Price Prediction of Used Cars Using Regression Methods")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Simply input the variables and click the run button."
 )
